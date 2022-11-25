@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Siddh-s
 - 👀 I’m interested in machine learning .
 - 🌱 I’m currently learning solidity for ethereum blockchain .
-- 💞️ I’m looking to collaborate on software based projects
+- 💞️ I’m looking to collaborate on software based projects.
 - 📫 How to reach me siddhansh1232003@gmail.com
 
 <!---
