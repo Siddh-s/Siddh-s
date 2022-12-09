@@ -1,6 +1,6 @@
 <!-- - 👋 Hi, I’m @Siddh-s
 - 👀 I’m interested in machine learning and python .
-- 🌱 I’m currently learning DSA from Java .
+- 🌱 I’m currently learning DSA FROM Java .
 - 💞️ I’m looking to collaborate on software based projects.
 - 📫 How to reach me siddhansh1232003@gmail.com . -->
 
