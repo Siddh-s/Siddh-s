@@ -1,8 +1,8 @@
 <!-- - 👋 Hi, I’m @Siddh-s
 - 👀 I’m interested in machine learning and python .
-- 🌱 I’m currently learning Data Structures and Algorithms from Java .
+- 🌱 I’m currently learning Data Structures and Algorithms using Java .
 - 💞️ I’m looking to collaborate on software based projects.
-- 📫 How to reach me siddhansh1232003@gmail.com . -->
+- 📫 Reach me on siddhansh1232003@gmail.com . -->
 
 <!---
 Siddh-s/Siddh-s is a ✨ special ✨ repository because its `README.md` (tis file) appears on your Githubprfile.
