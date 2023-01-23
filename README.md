@@ -1,6 +1,6 @@
 <!-- - 👋 Hi, I’m @Siddh-s
-- 👀 I’m interested in machine lerninng and python .
-- 🌱 I’m currently learning Data Structures and Algorithm from Java .
+- 👀 I’m interested in machine lerning and python .
+- 🌱 I’m currently learning Data Structurres and Algorithm from Java .
 - 💞️ I’m looking to collaborate on software based projects.
 - 📫 How to reach me siddhansh1232003@gmail.com . -->
 
