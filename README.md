@@ -1,5 +1,5 @@
 <!-- - 👋 Hi, I’m @Siddh-s
-- 👀 I’m interested in machine lerning and SQL .
+- 👀 I’m interested in machinee lerning and SQL .
 - 🌱 I’m currently learning Data Structuress and Algorithm
 m from Java .
 - 💞️ I’m looking to collaborate on software based projects.
